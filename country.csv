@@ -1,28 +1,27 @@
-response,count
-United States of America,36
-Germany,8
-United Kingdom of Great Britain and Northern Ireland,15
-Norway,4
-France,7
-Belgium,17
-Skipped,8
-Sweden,2
-Peru,2
-Algeria,1
-Switzerland,4
-Australia,4
-Jersey,1
-Brunei Darussalam,1
-New Zealand,2
-Spain,1
-Estonia,1
-Denmark,2
-Austria,2
-Finland,1
-Netherlands,3
-Canada,3
-South Africa,2
-Malaysia,1
-Italy,1
-Bangladesh,1
-Portugal,1
+code,country,count
+USA,United States of America,36
+CAN,Canada,3
+BEL,Belgium,17
+AUS,Australia,4
+NLD,Netherlands,3
+FIN,Finland,1
+NZL,New Zealand,2
+AUT,Austria,2
+GBR,United Kingdom of Great Britain and Northern Ireland,15
+DNK,Denmark,2
+EST,Estonia,1
+ESP,Spain,1
+BRN,Brunei Darussalam,1
+JEY,Jersey,1
+DEU,Germany,8
+CHE,Switzerland,4
+NOR,Norway,4
+DZA,Algeria,1
+PER,Peru,2
+SWE,Sweden,2
+FRA,France,7
+ZAF,South Africa,2
+MYS,Malaysia,1
+ITA,Italy,1
+BGD,Bangladesh,1
+PRT,Portugal,1
