@@ -1,14 +1,12 @@
-response,count
-Skipped,4
-Asian ,5
-Black or African American ,2
-"Hispanic, Latino or Spanish origin ",5
-White ,99
-Middle Eastern or North African ,2
-Southeast Asian,1
-"White, Asian",2
-"White, Black or African American ",1
-"Hispanic, Latino or Spanish origin, White ",1
-"White, Middle Eastern or North African",1
-Prefer not to answer,6
-Other: Human,2
+response,count,type
+Asian,5,0
+Black or African American,2,0
+"Hispanic, Latino or Spanish origin",5,0
+White,99,0
+Middle Eastern or North African,2,0
+Southeast Asian,1,0
+"White, Asian",2,1
+"White, Black or African American",1,1
+"Hispanic, Latino or Spanish origin, White ",1,1
+"White, Middle Eastern or North African",1,1
+total,119,null
