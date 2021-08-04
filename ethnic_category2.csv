@@ -1,10 +1,9 @@
 response,count,type
-Asian,5,0
+Asian,6,0
 Black or African American,2,0
 "Hispanic, Latino or Spanish origin",5,0
 White,99,0
 Middle Eastern or North African,2,0
-Southeast Asian,1,0
 "White, Asian",2,1
 "White, Black or African American",1,1
 "Hispanic, Latino or Spanish origin, White ",1,1
